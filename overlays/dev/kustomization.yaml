@@ -4,7 +4,7 @@ resources:
 - ../../base
 images:
 - name: aimmopost-image
-  newName: aimmoregistry.azurecr.io/aimmopost
+  newName: aimmopostregistry.azurecr.io/aimmopost
   newTag: v1
-- name: aimmoregistry.azurecr.io/aimmopost
+- name: aimmopostregistry.azurecr.io/aimmopost
   newTag: latest
