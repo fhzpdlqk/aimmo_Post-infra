@@ -7,4 +7,4 @@ images:
   newName: aimmopostregistry.azurecr.io/aimmopost
   newTag: v1
 - name: aimmopostregistry.azurecr.io/aimmopost
-  newTag: f0f155d651c974aa66fa107b0bf3db57af9f380c
+  newTag: 41d54a185b6a0cd0d966f085eb33abeeca5c010a
